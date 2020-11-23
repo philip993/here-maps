@@ -1,0 +1,3 @@
+export const INPUT_SEARCH_ADDRESS = "INPUT_SEARCH_ADDRESS";
+
+export const MAP_EXP = "MAP_EXP";
